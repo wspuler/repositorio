@@ -12,9 +12,7 @@ namespace ConsolaCode
 
             string valor2= Resolver(valor);
             
-            Console.WriteLine(valor2);
-            //Console.WriteLine("2");
-            
+            Console.WriteLine(valor2);                     
 
         }
 
