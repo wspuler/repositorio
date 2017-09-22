@@ -1,0 +1,10 @@
+C:\Desarrollo\Trunk\ConsolaCode\bin\Debug\netcoreapp2.0\ConsolaCode.deps.json
+C:\Desarrollo\Trunk\ConsolaCode\bin\Debug\netcoreapp2.0\ConsolaCode.runtimeconfig.json
+C:\Desarrollo\Trunk\ConsolaCode\bin\Debug\netcoreapp2.0\ConsolaCode.runtimeconfig.dev.json
+C:\Desarrollo\Trunk\ConsolaCode\bin\Debug\netcoreapp2.0\ConsolaCode.dll
+C:\Desarrollo\Trunk\ConsolaCode\bin\Debug\netcoreapp2.0\ConsolaCode.pdb
+C:\Desarrollo\Trunk\ConsolaCode\obj\Debug\netcoreapp2.0\ConsolaCode.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Trunk\ConsolaCode\obj\Debug\netcoreapp2.0\ConsolaCode.AssemblyInfoInputs.cache
+C:\Desarrollo\Trunk\ConsolaCode\obj\Debug\netcoreapp2.0\ConsolaCode.AssemblyInfo.cs
+C:\Desarrollo\Trunk\ConsolaCode\obj\Debug\netcoreapp2.0\ConsolaCode.dll
+C:\Desarrollo\Trunk\ConsolaCode\obj\Debug\netcoreapp2.0\ConsolaCode.pdb
