@@ -20,6 +20,11 @@ namespace ConsolaCode
         {
             return parametro + " !!";
         }
+
+        public static string Algo()
+        {
+            return "";
+        }
     }   
 
 }
