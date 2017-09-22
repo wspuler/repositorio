@@ -7,11 +7,14 @@ namespace ConsolaCode
         static void Main(string[] args)
         {
             string valor = "hola";
+                
             valor += " mundo";
 
             string valor2= Resolver(valor);
             
             Console.WriteLine(valor2);
+            //Console.WriteLine("2");
+            
 
         }
 
