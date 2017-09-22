@@ -23,7 +23,7 @@ namespace ConsolaCode
 
         public static string Algo()
         {
-            return "";
+            return "salida";
         }
     }   
 
