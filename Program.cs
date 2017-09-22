@@ -23,7 +23,17 @@ namespace ConsolaCode
 
         public static string Algo()
         {
+            var operacion="";
+            //aaa
+
             return "salida";
+            
+        }
+
+        public int lla()
+        {
+            return 1;
+            
         }
     }   
 
