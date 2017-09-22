@@ -21,11 +21,6 @@ namespace ConsolaCode
             return parametro + " !!";
         }
 
-        public int lla()
-        {
-            return 1;
-
-        }
     }   
 
 }
